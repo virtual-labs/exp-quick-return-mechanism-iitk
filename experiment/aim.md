@@ -1,1 +1,3 @@
-### Aim of the experiment
+# Objective
+
+- To study about the Quick Return Mechanism
