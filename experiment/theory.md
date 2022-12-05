@@ -57,3 +57,5 @@ $$ \\frac{Time of cu \\epsilon gstroke}{Time of return stroke   } = \\frac{\\alp
 <video width="420" height="340" controls=""><source src="./vid16/part7.mp4" type="video/mp4"></video>
 
 </center>
+
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
