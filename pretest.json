@@ -1,0 +1,27 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "A quick return mechanism is an apparatus that converts",
+      "answers": {
+        "a": "Circular motion into reciprocating motion",
+        "b": "Circular motion into linear motion",
+        "c": "Linear motion into reciprocating motion",
+        "d": "Linear motion into Circular motion"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "This mechanism is mostly used in ",
+      "answers": {
+        "a": "Shaping machines",
+        "b": "Slotting machines",
+        "c": "Rotary internal combustion engines",
+        "d": "All of the above"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}

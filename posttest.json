@@ -1,0 +1,27 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Whitworth quick return motion mechanism is mostly used in ",
+      "answers": {
+        "a": "Shaping and slotting machines",
+        "b": "Shaping machines",
+        "c": "Slotting machines",
+        "d": "None of teh above"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Crank and slotted lever quick return motion mechanism is mostly used in ",
+      "answers": {
+        "a": "Shaping machines",
+        "b": "Slotting machines",
+        "c": "Rotary internal combustion engines",
+        "d": "All of the above"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
